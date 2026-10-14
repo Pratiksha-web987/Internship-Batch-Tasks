@@ -1,4 +1,4 @@
-# Task 01: Shopping Bill - GST First, Discount After
+# Task 10: Shopping Bill - GST First, Discount After
 
 # Function to calculate the electronics bill after 18% GST
 def calculateElectronicsGST(amount):
